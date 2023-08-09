@@ -3,39 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bailey.run/posts/dadlan-2k19/</loc>
-    <lastmod>2019-01-22T23:31:07-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bailey.run/about/</loc>
-    <lastmod>2019-01-22T23:31:07-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bailey.run/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bailey.run/</loc>
-    <lastmod>2019-01-22T23:31:07-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bailey.run/posts/</loc>
-    <lastmod>2019-01-22T23:31:07-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bailey.run/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bailey.run/tags/untagged/</loc>
     <lastmod>2019-01-22T23:31:07-08:00</lastmod>
     <priority>0</priority>
   </url>
